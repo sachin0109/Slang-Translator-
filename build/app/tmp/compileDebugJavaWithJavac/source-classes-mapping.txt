@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sachin/slang_converter/BuildConfig.java
+ com.sachin.slang_converter.BuildConfig
